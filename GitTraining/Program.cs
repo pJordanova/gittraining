@@ -6,7 +6,7 @@ namespace GitTraining
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Program.Main(args);
         }
     }
 }
